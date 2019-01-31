@@ -10,3 +10,5 @@
 1> Make sure that the commit message is same as the name of the issue.</br>
 2> If you want to file a new bug, please send me the description of it and I will see if we can include that.</br>
 3> Your pull request should contain only one commit.</br>
+
+NIT NIT NIT
